@@ -1,6 +1,7 @@
 ### 👋 Hi there 
 ### 🔭 I'm currently working on an interesting project
-### 👯 I’m looking to collaborate on LinkedIn
+### 👯 I’m looking to connect on LinkedIn
+### 
 <!--
 **AXHLC/AXHLC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
