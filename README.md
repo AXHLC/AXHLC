@@ -9,7 +9,7 @@ I am currently studying A-level fast track Maths, Statistics and Computer Scienc
 * 🌍  I'm based in Stoke-on-Trent
 * ✉️  You can contact me at [a.chaal231@gmail.com](mailto:a.chaal231@gmail.com)
 * 🧠  I'm learning web development
-* ⚡  I have two cats named prince and brownie
+* ⚡  I play basketball
 
 ### Skills
 
